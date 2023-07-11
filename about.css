@@ -1,0 +1,94 @@
+nav {
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  .crumb {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  #hero {
+    text-align: center;
+    padding: 50px;
+    background-color: #f9f9f9;
+  }
+  
+  #hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  #hero p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  #description {
+    padding: 50px;
+    background-color: #fff;
+  }
+  
+  #description h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  #description p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  #restaurants {
+    padding: 50px;
+    background-color: #f9f9f9;
+  }
+  
+  #restaurants h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  #restaurants ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #restaurants li {
+    margin-bottom: 10px;
+  }
+  
+  #restaurants a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  #parks {
+    padding: 50px;
+    background-color: #fff;
+  }
+  
+  #parks h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  #parks ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #parks li {
+    margin-bottom: 10px;
+  }
+  
+  #parks a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f2f2f2;
+  }

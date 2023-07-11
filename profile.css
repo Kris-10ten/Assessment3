@@ -1,0 +1,88 @@
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+header {
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+  }
+  
+header h1 {
+    color: #fff;
+  }
+  
+section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+section h2 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+ul.skills-list, ul.interests-list {
+    list-style-type: none;
+    margin-left: 20px;
+  }
+  
+ul.skills-list li, ul.interests-list li {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 5px 10px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+ul.skills-list li:hover, ul.interests-list li:hover {
+    background-color: #555;
+  }
+  
+footer {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+  }
+  
+footer p {
+    color: #fff;
+  }
+  
+  
+section + section {
+    margin-top: 20px;
+  }
+
+button {
+    display: block;
+    margin: 10px 0;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+button:hover {
+    background-color: #555;
+  }
+  
+.favorite {
+    font-size: x-large;
+    background-color: #FFFFCE;
+    color: black
+}
